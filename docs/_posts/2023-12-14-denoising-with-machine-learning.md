@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Denoising images with machine learning"
-date:   2023-12-14
-categories: computers
-excerpt: Unsupervised fun!
-tags:
-image: /assets/article_images/denoising/denoiser.png
+title: "Denoising images with Machine Learnig"
+date: 2023-12-14
+description: Unsupervised fun! # Add post description (optional)
+img: denoiser.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Computer Science, Machine Learning]
 ---
 
 Developed as part of a machine learning course during my master's program.
