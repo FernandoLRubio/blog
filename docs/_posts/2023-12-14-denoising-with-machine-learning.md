@@ -5,6 +5,7 @@ date: 2023-12-14
 description: Unsupervised fun! # Add post description (optional)
 img: denoiser.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+excerpt: Unsupervised fun!
 tags: [Computer Science, Machine Learning]
 ---
 
@@ -55,5 +56,5 @@ Anyways, without further a do, here's the link to the demo.
 
 ---
 
->btw, if you do look at my code, I know it's horrendous. Like many school 
-projects, quality was not the first priority. Don't  this, kids.
+btw, if you do look at my code, I know it's horrendous. Like many school 
+projects, quality was not the first priority. 
