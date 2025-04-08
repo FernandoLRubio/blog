@@ -3,7 +3,7 @@ layout: post
 title: "Denoising images with Machine Learnig"
 date: 2023-12-14
 description: Unsupervised fun! # Add post description (optional)
-img: denoiser.jpg # Add image post (optional)
+img: denoiser.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Computer Science, Machine Learning]
 ---
